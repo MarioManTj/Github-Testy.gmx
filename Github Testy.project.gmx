@@ -8,13 +8,18 @@
   <sprites name="sprites">
     <sprite>sprites\msPlayer</sprite>
     <sprite>sprites\vsBlock</sprite>
+    <sprite>sprites\msSpring</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\moPlayer</object>
     <object>objects\oBlock</object>
+    <object>objects\moSpring</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\mrSpringTest</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
