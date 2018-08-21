@@ -10,7 +10,6 @@
     <sprite>sprites\vsBlock</sprite>
     <sprite>sprites\msSpring</sprite>
     <sprite>sprites\msSpike</sprite>
-    <sprite>sprites\msSlope</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
