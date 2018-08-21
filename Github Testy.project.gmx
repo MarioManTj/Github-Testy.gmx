@@ -14,11 +14,7 @@
   <objects name="objects">
     <object>objects\moPlayer</object>
     <object>objects\oBlock</object>
-    <object>objects\virus</object>
   </objects>
-  <rooms name="rooms">
-    <room>rooms\mrTestRoom</room>
-  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
