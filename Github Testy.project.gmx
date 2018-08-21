@@ -13,6 +13,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\moPlayer</object>
+    <object>objects\oBlock</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
