@@ -9,6 +9,7 @@
     <sprite>sprites\msPlayer</sprite>
     <sprite>sprites\vsBlock</sprite>
     <sprite>sprites\msSpring</sprite>
+    <sprite>sprites\msSpike</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -16,6 +17,7 @@
     <object>objects\moPlayer</object>
     <object>objects\oBlock</object>
     <object>objects\moSpring</object>
+    <object>objects\moSpike</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mrSpringTest</room>
